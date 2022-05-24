@@ -1,0 +1,8 @@
+C:\Users\farem\Desktop\SistTiendaRopa\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.deps.json
+C:\Users\farem\Desktop\SistTiendaRopa\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.dll
+C:\Users\farem\Desktop\SistTiendaRopa\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.pdb
+C:\Users\farem\Desktop\SistTiendaRopa\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\farem\Desktop\SistTiendaRopa\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfo.cs
+C:\Users\farem\Desktop\SistTiendaRopa\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\farem\Desktop\SistTiendaRopa\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.dll
+C:\Users\farem\Desktop\SistTiendaRopa\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.pdb

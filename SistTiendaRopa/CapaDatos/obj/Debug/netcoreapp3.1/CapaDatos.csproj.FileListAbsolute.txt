@@ -1,0 +1,9 @@
+C:\Users\farem\Desktop\SistTiendaRopa\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csprojAssemblyReference.cache
+C:\Users\farem\Desktop\SistTiendaRopa\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\farem\Desktop\SistTiendaRopa\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+C:\Users\farem\Desktop\SistTiendaRopa\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\farem\Desktop\SistTiendaRopa\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.deps.json
+C:\Users\farem\Desktop\SistTiendaRopa\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\farem\Desktop\SistTiendaRopa\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\farem\Desktop\SistTiendaRopa\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\farem\Desktop\SistTiendaRopa\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.pdb
